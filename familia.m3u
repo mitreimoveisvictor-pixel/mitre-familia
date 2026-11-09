@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 group-title="Filmes da Família",Bernardo - Ep. 1 O Despertar
-https://github.com/mitreimoveisvictor-pixel/mitre-familia/releases/download/ep1/Bernardo_A_Chama_Dourada_Ep1_TV_16x9.mp4
+https://raw.githubusercontent.com/mitreimoveisvictor-pixel/mitre-familia/main/videos/Ep1_O_Despertar.mp4
+#EXTINF:-1 group-title="Filmes da Família",Bernardo - Ep. 2 O Nascimento
+https://raw.githubusercontent.com/mitreimoveisvictor-pixel/mitre-familia/main/videos/Ep2_O_Nascimento.mp4
