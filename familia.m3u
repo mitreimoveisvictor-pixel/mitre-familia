@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Filmes da Família",Bernardo - Ep. 1 O Despertar
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mitreimoveisvictor-pixel/mitre-familia/main/posters/ep1.jpg" group-title="Filmes da Família",Bernardo - Ep. 1 O Despertar
 https://raw.githubusercontent.com/mitreimoveisvictor-pixel/mitre-familia/main/videos/Ep1_O_Despertar.mp4
-#EXTINF:-1 group-title="Filmes da Família",Bernardo - Ep. 2 O Nascimento
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mitreimoveisvictor-pixel/mitre-familia/main/posters/ep2.jpg" group-title="Filmes da Família",Bernardo - Ep. 2 O Nascimento
 https://raw.githubusercontent.com/mitreimoveisvictor-pixel/mitre-familia/main/videos/Ep2_O_Nascimento.mp4
